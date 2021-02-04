@@ -16,7 +16,7 @@ board = [[E, E, E],
          [E, E, E],
          [E, E, E],]
 line_rect = [0, 0, 0, 0]
-turn = X
+turn = O
 
 def draw_board():
     for i in range(len(board)):
