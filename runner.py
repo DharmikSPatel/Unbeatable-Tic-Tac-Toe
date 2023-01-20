@@ -1,5 +1,6 @@
 import pygame
 import random
+
 pygame.init()
 SCREEN_SIZE = (500, 500)
 SCREEN_COLOR = (255, 255, 255)
